@@ -16,7 +16,7 @@ class ParkingLotDemo:
 
         parking_lot_obj.display_availability()
         parking_lot_obj.unpark_vehicle(car)
-        print("xyzhjhsdbfghs")
+      
         parking_lot_obj.display_availability()
 
 
